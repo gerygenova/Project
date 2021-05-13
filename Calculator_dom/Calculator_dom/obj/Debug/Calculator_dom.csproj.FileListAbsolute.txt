@@ -1,0 +1,10 @@
+c:\users\geryg\documents\visual studio 2012\Projects\Calculator_dom\Calculator_dom\bin\Debug\Calculator_dom.exe
+c:\users\geryg\documents\visual studio 2012\Projects\Calculator_dom\Calculator_dom\bin\Debug\Calculator_dom.pdb
+c:\users\geryg\documents\visual studio 2012\Projects\Calculator_dom\Calculator_dom\obj\Debug\Calculator_dom.csprojResolveAssemblyReference.cache
+c:\users\geryg\documents\visual studio 2012\Projects\Calculator_dom\Calculator_dom\obj\Debug\Calculator_dom.Form1.resources
+c:\users\geryg\documents\visual studio 2012\Projects\Calculator_dom\Calculator_dom\obj\Debug\Calculator_dom.Properties.Resources.resources
+c:\users\geryg\documents\visual studio 2012\Projects\Calculator_dom\Calculator_dom\obj\Debug\Calculator_dom.csproj.GenerateResource.Cache
+c:\users\geryg\documents\visual studio 2012\Projects\Calculator_dom\Calculator_dom\obj\Debug\Calculator_dom.exe
+c:\users\geryg\documents\visual studio 2012\Projects\Calculator_dom\Calculator_dom\obj\Debug\Calculator_dom.pdb
+C:\Users\geryg\Desktop\Calculator_dom\Calculator_dom\obj\Debug\Calculator_dom.exe
+C:\Users\geryg\Desktop\Calculator_dom\Calculator_dom\obj\Debug\Calculator_dom.pdb
